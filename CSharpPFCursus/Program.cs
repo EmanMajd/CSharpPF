@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hallo iedereen!");
+            Console.WriteLine("Einde programma");
         }
     }
 }
